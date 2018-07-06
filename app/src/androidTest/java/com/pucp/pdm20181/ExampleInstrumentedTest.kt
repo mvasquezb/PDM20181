@@ -1,4 +1,4 @@
-package com.pmvb.pdm20181
+package com.pucp.pdm20181
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

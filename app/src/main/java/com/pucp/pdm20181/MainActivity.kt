@@ -1,4 +1,4 @@
-package com.pmvb.pdm20181
+package com.pucp.pdm20181
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
